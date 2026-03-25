@@ -1,9 +1,6 @@
 # program-b-b-
 C module 2
 EX NO:2-b) Hollow rectangular pattern. 
-Date:19/10/2025 
-Name: VASANTH S 
-Ref no: 25017538
 
 AIM: To write a C program to print hollow rectangular pattern.
 
